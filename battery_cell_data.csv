@@ -1,0 +1,6 @@
+Cell ID,Type,🔋 Voltage (V),⚡ Current (A),🌡️ Temp (°C),⚙️ Capacity (Wh)
+Cell_1,LFP,3.2,4.41,30.3,14.11
+Cell_2,NMC,3.6,3.87,25.3,13.93
+Cell_3,LTO,3.6,2.36,39.4,8.5
+Cell_4,NCA,3.6,1.04,31.3,3.74
+Cell_5,LMO,3.6,2.76,33.2,9.94
